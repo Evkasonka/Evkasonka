@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello 👋! I'm a beginner Python developer.
+Ready to take on the most ambitious ideas and contribute to development.
 
 <!--
 **Evkasonka/Evkasonka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
