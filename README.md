@@ -1,5 +1,9 @@
 ### Hello 👋! I'm a beginner Python developer.
 Ready to take on the most ambitious ideas and contribute to development.
+I like Python for its versatility and popularity, it has a simple and clear syntax, a large community.
+I strive to become a competent, professional developer.
+
+
 
 <!--
 **Evkasonka/Evkasonka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
